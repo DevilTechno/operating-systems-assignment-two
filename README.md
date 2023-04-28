@@ -1,12 +1,12 @@
 # operating-systems-assignment-two
 
-**Implement the Banker’s algorithm to answer the following question： Is the system in a safe state? If Yes, then what is the safe sequence?
+**Implement the Banker’s algorithm to answer the following question： Is the system in a safe state? If Yes, then what is the safe sequence?**
 
 The answer to the following question is that the system is in a safe state, this safe sequence can be seen in the following screenshot:
 
 ![image](https://user-images.githubusercontent.com/31938399/235051506-feef53df-0560-4acc-9c50-95f3c3eb24c9.png)
 
-This was gotten by reading in variables from the file **input.txt
+This was gotten by reading in variables from the file **input.txt**
 
 The data from this file shows as following:
 
