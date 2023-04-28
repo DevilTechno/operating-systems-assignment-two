@@ -6,7 +6,6 @@ int main(){
     input_file = fopen("input.txt", "r");
 	
     // This reads in the first two numbers to determine the number of processes and resources
-    
 	fscanf(input_file, "%d%d", &num_proc, &num_res);
     
 	// Instantiation of the allocated, max and available processes/resources
